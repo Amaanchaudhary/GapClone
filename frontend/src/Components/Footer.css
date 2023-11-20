@@ -1,0 +1,41 @@
+.footer-screen{
+    height: 530px;
+    width: 100%;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+.footer-1{
+    height: 61%;
+    width: 100%;
+    border: 1px solid white;
+}
+.footer1-body{
+    height: 50%;
+    width: 81%;
+    margin-inline-start: 30px;
+    border: 1px solid white;
+    margin-top: 85px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer1-1{
+    height: 100%;
+    border: 1px solid blue;
+    width: 26%;
+}
+.footer1-2{
+    height: 100%;
+    border: 1px solid blue;
+    width: 20%;
+}
+.footer1-3{
+    height: 100%;
+    border: 1px solid blue;
+    width: 19%;
+}
+.footer1-4{
+    height: 100%;
+    border: 1px solid blue;
+    width: 14%;
+}
