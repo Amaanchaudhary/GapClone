@@ -1,6 +1,7 @@
 import './Navbar.css'
 
 const Navbar = () => {
+
     return(
         <div id='navbar-screen'>
             <div className='navbar-1'>
